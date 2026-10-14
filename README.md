@@ -27,6 +27,7 @@ I founded and led Digitaleap from 2019 to 2025 while remaining hands-on in archi
 | --- | --- |
 | [Museum Advocate](https://tehseenahmed.me/work/museum-advocate/) | Evolved an inherited Airtable/Firebase mobile app into a shared museum platform spanning a dashboard, public discovery app, and AI-assisted cataloging app. |
 | [Serve Me](https://tehseenahmed.me/work/serve-me/) | Led the architecture and most backend work for a salon marketplace and operations platform—booking rules, availability, geospatial search, inventory, and accounting integration. |
+| [oto.work](https://tehseenahmed.me/#work) | Built an automated freelance-management SaaS for invoicing, payments, contracts, reminders, and LLM-assisted proposal generation. |
 | Clean energy infrastructure | Shaped client-side data flows and REST/GraphQL API integrations for infrastructure and maintenance portals. |
 
 ## What I can own
