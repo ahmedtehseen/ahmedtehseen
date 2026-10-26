@@ -29,6 +29,10 @@ I founded and led Digitaleap from 2019 to 2025 while remaining hands-on in archi
 | [Serve Me](https://tehseenahmed.me/work/serve-me/) | Led the architecture and most backend work for a salon marketplace and operations platform—booking rules, availability, geospatial search, inventory, and accounting integration. |
 | [Infrastructure Planning Platform](https://tehseenahmed.me/work/infrastructure-planning-platform/) | Contributed full-stack interface and services work for a protected geospatial workspace that brings map layers, site analysis, climate intelligence, energy modeling, and spatial editing together. |
 
+## Currently building
+
+[**Personal Backup**](https://github.com/ahmedtehseen/personal-media-backup) is a local-first Android-to-Mac media backup system with resumable uploads, certificate-pinned local HTTPS, persistent transfer state, full-file SHA-256 verification, and external-drive recovery metadata. Physical-device transfers are working; interruption recovery, large-library behavior, and verified cleanup are now under hardware testing.
+
 ## What I can own
 
 - System and API architecture
