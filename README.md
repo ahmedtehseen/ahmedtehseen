@@ -31,7 +31,7 @@ I founded and led Digitaleap from 2019 to 2025 while remaining hands-on in archi
 
 ## Currently building
 
-[**Personal Backup**](https://github.com/ahmedtehseen/personal-media-backup) is a local-first Android-to-Mac media backup system with resumable uploads, certificate-pinned local HTTPS, persistent transfer state, full-file SHA-256 verification, and external-drive recovery metadata. Physical-device transfers are working; interruption recovery, large-library behavior, and verified cleanup are now under hardware testing.
+[**Homeward**](https://github.com/ahmedtehseen/homeward) is a local-first Android-to-Mac media backup system with resumable uploads, certificate-pinned local HTTPS, persistent transfer state, full-file SHA-256 verification, and external-drive recovery metadata. Physical-device transfers are working; interruption recovery, large-library behavior, and verified cleanup are now under hardware testing.
 
 ## What I can own
 
