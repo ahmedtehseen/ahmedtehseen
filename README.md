@@ -31,7 +31,7 @@ I founded and led Digitaleap from 2019 to 2025 while remaining hands-on in archi
 
 ## Recently shipped
 
-[**Homeward**](https://github.com/ahmedtehseen/homeward) is a local-first Android-to-Mac media backup system with resumable uploads, certificate-pinned local HTTPS, persistent transfer state, full-file SHA-256 verification, and external-drive recovery metadata. Phase 1 completed physical-device acceptance testing across transfer, interruption recovery, progress reporting, and verified cleanup workflows.
+[**Homeward**](https://github.com/ahmedtehseen/homeward) is a local-first Android-to-Mac media backup system with resumable uploads, certificate-pinned local HTTPS, persistent transfer state, full-file SHA-256 verification, and external-drive recovery metadata. Phase 1 completed physical-device acceptance testing across approximately 14,000 items and 60 GB of media, including large videos, interruption recovery, progress reporting, and verified cleanup workflows.
 
 ## What I can own
 
