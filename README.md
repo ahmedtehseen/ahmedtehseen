@@ -29,6 +29,10 @@ I founded and led Digitaleap from 2019 to 2025 while remaining hands-on in archi
 | [Serve Me](https://tehseenahmed.me/work/serve-me/) | Led the architecture and most backend work for a salon marketplace and operations platform—booking rules, availability, geospatial search, inventory, and accounting integration. |
 | [Infrastructure Planning Platform](https://tehseenahmed.me/work/infrastructure-planning-platform/) | Contributed full-stack interface and services work for a protected geospatial workspace that brings map layers, site analysis, climate intelligence, energy modeling, and spatial editing together. |
 
+## Currently building
+
+[**Streamwise AI**](https://github.com/ahmedtehseen/streamwise-ai) is an in-progress AI product engineering project built with Next.js, TypeScript, the Gemini API, and Zod. The current Week 3 milestone combines streaming chat, validated and editable task specifications, approval-gated tool calling, and browser-local draft management. Follow the verified progress on my [portfolio](https://tehseenahmed.me/#currently-building-title).
+
 ## Recently shipped
 
 [**Homeward**](https://github.com/ahmedtehseen/homeward) is a local-first Android-to-Mac media backup system with resumable uploads, certificate-pinned local HTTPS, persistent transfer state, full-file SHA-256 verification, and external-drive recovery metadata. Phase 1 completed physical-device acceptance testing across approximately 14,000 items and 60 GB of media, including large videos, interruption recovery, progress reporting, and verified cleanup workflows.
