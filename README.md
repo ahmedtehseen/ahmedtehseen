@@ -31,7 +31,7 @@ I founded and led Digitaleap from 2019 to 2025 while remaining hands-on in archi
 
 ## Currently building
 
-[**Streamwise AI**](https://github.com/ahmedtehseen/streamwise-ai) is an in-progress AI product engineering project built with Next.js, TypeScript, the Gemini API, and Zod. The current Week 4 milestone combines streaming chat, schema-validated editable specifications, approval-gated tool calling, browser-local drafts, and multimodal screenshot intake with upload and paste support. Follow the verified progress on my [portfolio](https://tehseenahmed.me/#currently-building-title).
+[**Streamwise AI**](https://github.com/ahmedtehseen/streamwise-ai) is an in-progress AI product engineering project built with Next.js, TypeScript, Gemini, Supabase Postgres, and pgvector. The current Week 5 milestone adds multi-format Project Document ingestion, hybrid semantic and keyword retrieval, Grounded Answers with Source References, and admin-protected document management to the earlier streaming chat, editable specifications, approval-gated tool calling, and multimodal intake workflows. Follow the verified progress on my [portfolio](https://tehseenahmed.me/#currently-building-title).
 
 ## Recently shipped
 
