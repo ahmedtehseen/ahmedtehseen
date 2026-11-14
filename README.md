@@ -29,11 +29,9 @@ I founded and led Digitaleap from 2019 to 2025 while remaining hands-on in archi
 | [Serve Me](https://tehseenahmed.me/work/serve-me/) | Led the architecture and most backend work for a salon marketplace and operations platform—booking rules, availability, geospatial search, inventory, and accounting integration. |
 | [Infrastructure Planning Platform](https://tehseenahmed.me/work/infrastructure-planning-platform/) | Contributed full-stack interface and services work for a protected geospatial workspace that brings map layers, site analysis, climate intelligence, energy modeling, and spatial editing together. |
 
-## Currently building
-
-[**Streamwise AI**](https://github.com/ahmedtehseen/streamwise-ai) is an in-progress AI product engineering project built with Next.js, TypeScript, Gemini, Supabase Postgres, and pgvector. The live Week 5 application combines reviewable AI workflows with a source-grounded Portfolio Assistant. Week 6 is implemented and in review, adding shared public usage allowances, bounded generation and retrieval degradation, visitor Answer Flags, and atomic Project Document replacement. [Try the live Week 5 app](https://streamwise-ai-wine.vercel.app), inspect [PR #16](https://github.com/ahmedtehseen/streamwise-ai/pull/16), or follow the verified progress on my [portfolio](https://tehseenahmed.me/#currently-building-title).
-
 ## Recently shipped
+
+[**Streamwise AI**](https://streamwise.tehseenahmed.me) is a completed personal AI product engineering project built with Next.js, TypeScript, Gemini, Supabase Postgres, and pgvector. It combines streaming chat, validated task specifications, multimodal intake, approval-gated tool calling, and a source-grounded Portfolio Assistant with hybrid retrieval. Completed capabilities include shared public usage allowances, safe generation and retrieval degradation, visitor Answer Flags, atomic Document Replacement, and live-tested public and owner MCP access through Codex with approval before review. Explore the [source](https://github.com/ahmedtehseen/streamwise-ai) and [MCP verification record](https://github.com/ahmedtehseen/streamwise-ai/blob/main/docs/smoke/2026-11-10-week7.md).
 
 [**Homeward**](https://github.com/ahmedtehseen/homeward) is a local-first Android-to-Mac media backup system with resumable uploads, certificate-pinned local HTTPS, persistent transfer state, full-file SHA-256 verification, and external-drive recovery metadata. Phase 1 completed physical-device acceptance testing across approximately 14,000 items and 60 GB of media, including large videos, interruption recovery, progress reporting, and verified cleanup workflows.
 
